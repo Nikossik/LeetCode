@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikossik/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Nikossik/LeetCode/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/Nikossik/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Nikossik/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Nikossik/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -74,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Nikossik/LeetCode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Nikossik/LeetCode/tree/master/1827-invalid-tweets) |
 | [2024-calculate-special-bonus](https://github.com/Nikossik/LeetCode/tree/master/2024-calculate-special-bonus) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nikossik/LeetCode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nikossik/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
