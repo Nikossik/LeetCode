@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-fix-names-in-a-table](https://github.com/Nikossik/LeetCode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Nikossik/LeetCode/tree/master/1827-invalid-tweets) |
 | [2024-calculate-special-bonus](https://github.com/Nikossik/LeetCode/tree/master/2024-calculate-special-bonus) |
+| [2885-count-occurrences-in-text](https://github.com/Nikossik/LeetCode/tree/master/2885-count-occurrences-in-text) |
 ## Dynamic Programming
 |  |
 | ------- |
