@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikossik/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0250-count-univalue-subtrees](https://github.com/Nikossik/LeetCode/tree/master/0250-count-univalue-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikossik/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0250-count-univalue-subtrees](https://github.com/Nikossik/LeetCode/tree/master/0250-count-univalue-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikossik/LeetCode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Nikossik/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0250-count-univalue-subtrees](https://github.com/Nikossik/LeetCode/tree/master/0250-count-univalue-subtrees) |
 ## Stack
 |  |
 | ------- |
