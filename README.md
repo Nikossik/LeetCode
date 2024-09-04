@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Nikossik/LeetCode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Nikossik/LeetCode/tree/master/0177-nth-highest-salary) |
 | [1258-article-views-i](https://github.com/Nikossik/LeetCode/tree/master/1258-article-views-i) |
 | [1664-find-users-with-valid-e-mails](https://github.com/Nikossik/LeetCode/tree/master/1664-find-users-with-valid-e-mails) |
