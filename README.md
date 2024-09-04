@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nikossik/LeetCode/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/Nikossik/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
