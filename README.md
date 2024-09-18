@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/Nikossik/LeetCode/tree/master/1827-invalid-tweets) |
 | [2024-calculate-special-bonus](https://github.com/Nikossik/LeetCode/tree/master/2024-calculate-special-bonus) |
 | [2885-count-occurrences-in-text](https://github.com/Nikossik/LeetCode/tree/master/2885-count-occurrences-in-text) |
+| [3505-find-cities-in-each-state](https://github.com/Nikossik/LeetCode/tree/master/3505-find-cities-in-each-state) |
 ## Dynamic Programming
 |  |
 | ------- |
